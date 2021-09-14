@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bohdanpozhar
 - 👀 I’m interested in programming in C ++.
 - 🌱 I’m currently learning at the Kharkiv National University of Radioelectronics.
-- 💞️ I’m looking to collaborate on with Epam.
+- 💞️ I want to partner with Epam.
 - 📫 I live in Kharkiv. 
 
 <!---
